@@ -1,7 +1,8 @@
 Description
 =
 It creates a textarea that supports images, and it can also change keywords to images.
-Example: if it detects [first_name] (or any other keyword you specify), it can change it to an image that you selected by default.
+
+Example: if it detects [first_name] (or any other keyword you specify), it can change it to an image (usefull for predefined text variables).
 
 You can copy from it even if you have images inside (they will be converted to their text value)
 If you paste a text, it will automatically convert keywords to images (if you have any)
