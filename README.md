@@ -63,7 +63,8 @@ Usage:
                                 });
                         })
                 </script>
-	### Functions
+### Functions
+
 	Get the text value of the editor:
 		alert(editor.val());
 
